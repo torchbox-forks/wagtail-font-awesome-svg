@@ -1,6 +1,6 @@
 # Wagtail Font Awesome SVG
 
-Add [Font Awesome v6](https://fontawesome.com/v6/icons?m=free&d=gallery) SVG icons to your Wagtail project. Only the `solid`, `regular` and `brands` icons are included.
+Add [Font Awesome v7](https://fontawesome.com/icons?d=gallery&m=free) SVG icons to your Wagtail project.
 
 ## Install
 
