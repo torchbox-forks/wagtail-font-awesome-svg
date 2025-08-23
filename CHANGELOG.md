@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Adjust the classifiers
+
+## [1.1] - 2025-06-01
+
 - Adjustments to support Wagtail 6.x and drop Django < 4.2
 - Scrape icons from fontawesome-free-6.5.2-web
 
