@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Adjust the classifiers
+- Adjust the classifiers to indicate support for Django 5.1, 5.2 and Wagtail 6 and 7.
 
 ## [1.1] - 2025-06-05
 
